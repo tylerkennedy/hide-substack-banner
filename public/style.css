@@ -1,0 +1,16 @@
+article > .pencraft {
+   display: none;
+}
+
+[class*="SubscribePrompt-module"] {
+  opacity: 0 !important;
+}
+
+
+.intro-popup, .default-intro-popup {
+  display: none !important;
+}
+
+html.show-intro-popup {
+  overflow: scroll !important;
+}
